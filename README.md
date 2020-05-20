@@ -10,3 +10,5 @@ Library requirements For python on Windows :
 6. Argparse
 
 Note - Pytesseract requires the tesseract binary to be installed on the system for interfacing.
+
+
