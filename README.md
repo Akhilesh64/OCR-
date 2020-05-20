@@ -13,5 +13,5 @@ Note - Pytesseract requires the tesseract binary to be installed on the system f
 
 Below is the Output after running the Image.png file through the script :
 
-!(https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Text_Output.png)
+![Output](https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Text_Output.png)
 
