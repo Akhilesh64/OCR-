@@ -11,6 +11,10 @@ Library requirements For python on Windows :
 
 Note - Pytesseract requires the tesseract binary to be installed on the system for interfacing.
 
+The image may need some preprocessing before running it through tesseract therefore I have added some options for preprocessing like -
+Thresholding, Blur, Dilation, Erosion, Opening, Closing and Deskewing(may or may not work properly depending on the image). 
+You need to choose the preprocessing option based on your needs.
+
 Sample Image :
 ![Input](https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Image.png)
 
