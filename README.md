@@ -11,4 +11,7 @@ Library requirements For python on Windows :
 
 Note - Pytesseract requires the tesseract binary to be installed on the system for interfacing.
 
+Below is the Output after running the Image.png file through the script :
+
+!(https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Text_Output.png)
 
