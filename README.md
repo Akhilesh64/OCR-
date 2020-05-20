@@ -23,9 +23,14 @@ Below is the Output after running the Image.png file through the script :
 ![Output](https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Text_Output.png)
 
 Deskewing sample image :
+
 ![Input](https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Image1.jpg)
+
 Image after after running the script with deskew preprocessing parameter :
+
 ![Output](https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Output_Img1.jpg)
+
 Recognized Text:
+
 ![Output](https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Output_Image1.png)
 
