@@ -18,7 +18,7 @@ You need to choose the preprocessing option based on your needs.
 Sample Image :
 ![Input](https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Image.png)
 
-Below is the Output after running the Image.png file through the script :
+Below is the Output after running the Image.png file through the script with close preprocessing parameter :
 
 ![Output](https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Text_Output.png)
 
