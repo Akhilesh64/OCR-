@@ -17,13 +17,10 @@ You need to choose the preprocessing option based on your needs.
 
 Usage :
 
-'''
-
-python ocr.py -p "preprocess-option"
-
+```
+$ python ocr.py -p "preprocess-option"
 Example(thresholding) : $ python ocr.py -p thresh
-
-'''
+```
 
 Sample Image :
 ![Input](https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Image.png)
