@@ -20,6 +20,7 @@ Usage :
 '''
 
 python ocr.py -p "preprocess-option"
+
 Example(thresholding) : $ python ocr.py -p thresh
 
 '''
