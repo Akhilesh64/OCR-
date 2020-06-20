@@ -18,8 +18,10 @@ You need to choose the preprocessing option based on your needs.
 Usage :
 
 '''
+
 $ python ocr.py -p "preprocess-option"
 Example(thresholding) : $ python ocr.py -p thresh
+
 '''
 
 Sample Image :
