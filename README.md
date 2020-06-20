@@ -15,6 +15,12 @@ The image may need some preprocessing before running it through tesseract theref
 Thresholding, Blur, Dilation, Erosion, Opening, Closing and Deskewing(may or may not work properly depending on the image). 
 You need to choose the preprocessing option based on your needs.
 
+Usage :
+'''
+$ python ocr.py -p "preprocess-option"
+Example(thresholding) : $ python ocr.py -p thresh
+'''
+
 Sample Image :
 ![Input](https://raw.githubusercontent.com/Akhilesh64/OCR-/master/Image.png)
 
